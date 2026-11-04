@@ -19,6 +19,4 @@ Questi documenti evolvono con la community. Se hai suggerimenti o proposte di mi
 
 ## Licenza
 
-## Licenza
-
 Questi documenti sono rilasciati sotto licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it). Sei libero di usarli, modificarli e adattarli al tuo contesto, anche per altri makerspace. Chiediamo solo di citare il Gorgo Lab come fonte originale e di condividere le tue versioni modificate con la stessa licenza, mantenendo aperto il contributo alla community dei makerspace.

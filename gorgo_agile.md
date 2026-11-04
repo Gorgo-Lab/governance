@@ -21,6 +21,13 @@ Il **Contributor** è chi contribuisce a un progetto altrui.
 Il Gorgo Lab incoraggia a impegnarsi responsabilmente sia come Maintainer realizzando nuove idee, sia come Contributor per arricchire i progetti altrui, imparare competenze diverse e costruire collaborazioni che amplificano l'impatto del proprio lavoro.
 
 
+### Nota sui Fork di progetti
+#### Quando forkare
+Il fork è la soluzione quando la tua visione di un progetto diverge significativamente da quella del Maintainer e la collaborazione non è più produttiva. Invece di forzare cambiamenti non desiderati o abbandonare frustrato, crei una versione alternativa del progetto che evolve secondo la tua direzione. Il fork riconosce che due visioni valide possono coesistere, e spesso genera contaminazione reciproca quando soluzioni trovate in un progetto ispirano miglioramenti nell'altro.
+#### Responsabilità nel fork
+Chi crea un fork si assume tutte le responsabilità di un Maintainer: gestire il progetto, coordinare eventuali collaboratori, mantenere la documentazione. Dichiarate apertamente che il vostro è un progetto derivato, rispettando il lavoro originale. Valutate onestamente se avete risorse, tempo ed energia per portarlo avanti: un fork non è un modo per boicottare il progetto principale, ma un impegno serio verso una visione alternativa. Se emergono conflitti nell'uso di spazi o macchinari con il progetto originale, affrontateli attraverso il dialogo e il coordinamento, riconoscendo che entrambi i progetti hanno pari dignità e diritto di esistere.
+
+
 ## 1. La massima priorità è che i maker completino progetti che soddisfano le loro aspettative
 *Commento: Per mantenere progressi continui, riconoscete quando una discussione diventa sproporzionata rispetto all'importanza della decisione da prendere. Cercate un compromesso approssimativo che permetta di procedere, anziché aspettare l'unanimità perfetta. Concentratevi sulle decisioni sostanziali e sull'azione concreta: è meglio sperimentare e imparare in piccoli step che bloccarsi in deliberazioni infinite*
 
@@ -44,7 +51,7 @@ Ogni membro può sperimentare liberamente senza chiedere permesso, ma le modific
 *Commento: Non le ore passate al makerspace, non le discussioni fatte, non i piani sulla carta: il progresso reale si misura con oggetti tangibili che funzionano. Un prototipo imperfetto ma testabile dice più di mille schizzi teorici. Questa misura concreta mantiene il focus sull'azione e permette a tutti di vedere dove si trova realmente il progetto.*
 
 ## 8. I ritmi di lavoro devono essere sostenibili nel tempo
-*Commento: Al Gorgo Labi maker partecipano per passione, non per obbligo. Vogliamo che possano mantenere indefinitamente, e senza stress, un alto livello di partecipazione. Inoltre, un progetto che richiede impegno eccessivo perde rapidamente collaboratori e rischia l'abbandono.*
+*Commento: Al Gorgo Lab i maker partecipano per passione, e proprio per questo con impegno: chi si unisce a un progetto lo fa per portarlo avanti, non per un passaggio fugace. Un impegno è credibile solo se è sostenibile: vogliamo che ognuno possa mantenere nel tempo, e senza stress, un buon livello di partecipazione. Meglio promettere poco e mantenerlo che promettere molto e sparire: un progetto che richiede impegno eccessivo perde rapidamente collaboratori e rischia l'abbandono.*
 
 ## 9. L'attenzione continua all'eccellenza tecnica e all'apprendimento dai fallimenti aumenta la versatilità del progetto
 *Commento: L'eccellenza tecnica non significa perfezione, ma cura nei dettagli che contano. Documentare cosa si fa, mantenere il codice/design leggibile, testare le soluzioni: queste pratiche permettono a nuovi Contributor di unirsi facilmente e al progetto di evolvere senza collassare sotto il peso della complessità. Allo stesso tempo, ogni fallimento è un'occasione per imparare e migliorare l'approccio.*
