@@ -6,6 +6,8 @@ Gorgo Lab opera secondo il principio della Do-ocracy: l'autorità e la responsab
 
 L'atto stesso di fare è la legittimazione per chi lo compie. Fai, non limitarti a discutere.
 
+Crediamo che il makerspace sia tanto più vivo quanto più sono attivi i suoi membri, perché è il luogo dove il fare di ciascuno alimenta quello degli altri. Ogni forma di attività ha pari dignità: un progetto personale, un esperimento fine a sé stesso, un'iniziativa al servizio della comunità, o anche solo dare aiuto concreto agli altri. Per questo l'occasione di essere parte attiva non manca mai, ed è nel coglierla che ciascuno diventa parte viva della comunità.
+
 > "If you want something done, do it" (Noisebridge)
 >
 > “Be bold” ([wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Be_bold))
